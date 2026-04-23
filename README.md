@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am PhD student at UW Madison.<br>🔭 I’m currently working on security and application of Large Language Models and Agentic Workflows with Dr. Somesh Jha.<br>👯 I’m looking to collaborate on similar research.<br>🤝 I’m looking for help with running startups, as I have my own named WUMI health, where I am integrating AI with healthcare.<br>🌱 I’m currently learning more about differential privacy and Agentic Workflows <br>💬 Ask me about the past , present, and future of AI<br>⚡ Fun fact about me is that I love sports, travelling and CS, three things that are impossible to manage together, so you know I have good time management skills XD.
+I am Masters student at UW Madison with research experience.<br>🔭 I’m currently working on security and application of Large Language Models and Agentic Workflows with Dr. Somesh Jha.<br>👯 I’m looking to collaborate on similar research.<br>🤝 I’m looking for help with running startups, as I have my own named WUMI health, where I am integrating AI with healthcare.<br>🌱 I’m currently learning more about differential privacy and Agentic Workflows <br>💬 Ask me about the past , present, and future of AI<br>⚡ Fun fact about me is that I love sports, travelling and CS, three things that are impossible to manage together, so you know I have good time management skills XD.
 
 
 ## 🌐 Socials:
