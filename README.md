@@ -46,11 +46,10 @@ Ten weeks of receipts, recomputed from my actual transcripts on July 11, 2026:
 |---|---|
 | **[musa-portfolio](https://github.com/muhammad-musa-ml/musa-portfolio)** | My living 3D portfolio — a Three.js neural constellation with 2,400 GPU-shaded particles and an honesty-first AI twin that answers as me, grounded in a knowledge base and served for $0 on edge functions. |
 | **[mufaasat](https://github.com/muhammad-musa-ml/mufaasat)** | A photobooth arcade: shoot a strip solo, or two people on two laptops shoot one strip together, live. Conceived to deployed on GitHub Pages in two days. |
-| **[faati-portfolio](https://github.com/muhammad-musa-ml/faati-portfolio)** | A scroll-driven 3D voyage with its own honesty-first AI twin — the portfolio pipeline, rerun end-to-end for a different person and brief. |
 | **[AugData](https://github.com/muhammad-musa-ml/AugData)** | A benchmark dataset for evaluating large multimodal models. |
 | **[customized_transport_layer](https://github.com/muhammad-musa-ml/customized_transport_layer)** | A secure, reliable transport protocol built from scratch on UDP — ACKs, checksums, and sliding windows in Python. |
 
-The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, consent-in-RLS, immutable audit, 545 pgTAP assertions), **resume-gauntlet** (the plugin above, pre-1.0), and the prompt-injection research code. Ask me about any of them.
+The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, consent-in-RLS, immutable audit, 545 pgTAP assertions), **resume-gauntlet** (the plugin above, pre-1.0), **regurates** (a research collaboration), and the prompt-injection research code. Ask me about any of them.
 
 ## Toolbox
 
