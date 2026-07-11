@@ -1,24 +1,93 @@
-# 💫 About Me:
-I am Masters student at UW Madison with research experience.<br>🔭 I’m currently working on security and application of Large Language Models and Agentic Workflows with Dr. Somesh Jha.<br>👯 I’m looking to collaborate on similar research.<br>🤝 I’m looking for help with running startups, as I have my own named WUMI health, where I am integrating AI with healthcare.<br>🌱 I’m currently learning more about differential privacy and Agentic Workflows <br>💬 Ask me about the past , present, and future of AI<br>⚡ Fun fact about me is that I love sports, travelling and CS, three things that are impossible to manage together, so you know I have good time management skills XD.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Muhammad Musa — LLM security researcher · agent-systems builder · founder, Wumi Health" src="assets/hero-light.svg" width="100%">
+</picture>
 
+<p align="center">
+  <a href="https://iammusa.vercel.app"><b>iammusa.vercel.app</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mmusa2/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mmusa2@wisc.edu">mmusa2@wisc.edu</a>
+  &nbsp;·&nbsp;
+  <a href="./MY-CLAUDE-SETUP.md">How I run Claude Code</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mmusa2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmusa2@wisc.edu) 
+I'm a Master's student in Computer Science at **UW–Madison**, researching the security of large language models and agentic workflows with Dr. Somesh Jha — indirect prompt injection against RAG pipelines and tool-using agents. I'm also the founder & CEO of **Wumi Health**, where those same agentic systems build a patient-owned national health record for Pakistan.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-musa-ml&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammad-musa-ml&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-musa-ml&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**I study how AI systems break because I bet a company on how well they can build.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammad-musa-ml&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+## Now — July 2026
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+- **[Wumi Health](https://iammusa.vercel.app)** — a mobile-first, CNIC-anchored EHR unifying patients, doctors, labs, and pharmacies. Flutter + Supabase with consent enforced in row-level security and FHIR projections on every clinical table. 5 of 12 phases closed; 545/545 database tests green locally *and* on cloud as of July 10.
+- **Indirect prompt injection research** (UW–Madison CS 763) — how retrieval and agentic systems get hijacked by the content they read, and what actually defends them. The findings run in my own tooling: every file my agents read passes through an injection scanner.
+- **resume-gauntlet** — a Claude Code plugin I built and shipped: 40 skills and 28 agents, including an 8-verifier adversarial gauntlet where a different model family cross-examines every resume claim against real evidence.
 
----
-[![](https://visitcount.itsvg.in/api?id=muhammad-musa-ml&icon=10&color=0)](https://visitcount.itsvg.in)
+## How I run Claude Code
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Most people use Claude Code as a faster way to write code. I run it as an operating system — 13 methodology manuals I authored load into every session, a spec-driven engine plans and verifies before it builds, 12 harness-level hooks gate every write and scan every read, 4 scheduled agents work while I sleep, and 20 MCP servers give it hands.
+
+Ten weeks of receipts, recomputed from my actual transcripts on July 11, 2026:
+
+| | |
+|---|---|
+| Sessions | **236** — plus 1,204 subagent transcripts they spawned |
+| Tool calls executed by the agent | **44,800+** |
+| Tokens generated | **~120 million** |
+| Tokens read through prompt cache | **~20.5 billion** |
+| Busiest single day | 25 sessions · 16,731 messages · 5,143 tool calls |
+| Built with it | a 12-phase startup build, a published plugin, two 3D portfolio sites, this profile |
+
+**[Read the full setup →](./MY-CLAUDE-SETUP.md)** — the doctrine layer, the safety hooks, the model-mixing policy, the scheduled agents, and the startup case study. Every claim on it is a receipt.
+
+## Selected work
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/muhammad-musa-ml/musa-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=musa-portfolio&theme=transparent&hide_border=true" alt="musa-portfolio — living 3D portfolio with an honesty-first AI twin">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/muhammad-musa-ml/mufaasat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=mufaasat&theme=transparent&hide_border=true" alt="mufaasat — a live two-laptop photobooth arcade">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/muhammad-musa-ml/AugData">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=AugData&theme=transparent&hide_border=true" alt="AugData — a benchmark dataset for large multimodal models">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/muhammad-musa-ml/customized_transport_layer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=customized_transport_layer&theme=transparent&hide_border=true" alt="customized_transport_layer — a reliable transport protocol built on UDP">
+      </a>
+    </td>
+  </tr>
+</table>
+
+The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, consent-in-RLS, immutable audit, 545 pgTAP assertions), **resume-gauntlet** (the plugin above, pre-1.0), and the prompt-injection research code. Ask me about any of them.
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,rust,r&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, C++, Rust, R"><br>
+  <img src="https://skillicons.dev/icons?i=ts,react,threejs,flutter,dart,supabase,postgres,docker&perline=8" alt="TypeScript, React, Three.js, Flutter, Dart, Supabase, Postgres, Docker">
+</p>
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-musa-ml&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-musa-ml&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" height="170">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-musa-ml/muhammad-musa-ml/output/github-snake-dark.svg">
+  <img alt="A snake eating my contribution graph, regenerated nightly by GitHub Actions" src="https://raw.githubusercontent.com/muhammad-musa-ml/muhammad-musa-ml/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center"><sub>The snake regrows itself nightly via <a href=".github/workflows/snake.yml">GitHub Actions</a>, and the <a href="./MY-CLAUDE-SETUP.md">setup doc</a> was written by the setup it documents. Last rebuilt July 11, 2026.</sub></p>
