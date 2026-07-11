@@ -197,4 +197,4 @@ The honest productivity claim isn't "10x." It's stranger than that: the ceiling 
 
 ## Colophon
 
-This page practices what it documents: Claude Code recomputed every number by streaming the 805 MB of session transcripts on my disk, re-read my hooks, settings, plugin manifests, and project state files — then wrote this under `communicate-fable` rules (lead with the point, receipts over adjectives) and the standing rule that nothing gets claimed that wasn't observed. Drafted with Claude Fable 5, July 11, 2026.
+This page practices what it documents: Claude Code recomputed every number by streaming the 805 MB of session transcripts on my disk, re-read my hooks, settings, plugin manifests, and project state files — then wrote this under `communicate-fable` rules (lead with the point, receipts over adjectives) and the standing rule that nothing gets claimed that wasn't observed.
