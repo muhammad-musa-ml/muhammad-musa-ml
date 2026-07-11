@@ -54,10 +54,28 @@ The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, conse
 
 ## Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,rust,r&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, C++, Rust, R"><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,threejs,flutter,dart,supabase,postgres,docker&perline=8" alt="TypeScript, React, Three.js, Flutter, Dart, Supabase, Postgres, Docker">
-</p>
+<table>
+  <tr>
+    <td align="right"><sub><b>ML&nbsp;&amp;&nbsp;AI</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,r&perline=15" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda, MATLAB, R"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Languages</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,c,java,rust,ts,js,dart,swift,haskell,bash,powershell,octave&perline=15" alt="C++, C, Java, Rust, TypeScript, JavaScript, Dart, Swift, Haskell, Bash, PowerShell, Octave"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Web&nbsp;&amp;&nbsp;mobile</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,flutter,graphql,django,fastapi,flask&perline=15" alt="React, Next.js, Node.js, Three.js, Flutter, GraphQL, Django, FastAPI, Flask"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Data&nbsp;&amp;&nbsp;cloud</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,dynamodb,cassandra,elasticsearch,kafka,firebase,aws,azure,gcp&perline=15" alt="Postgres, Supabase, MySQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Kafka, Firebase, AWS, Azure, Google Cloud"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Tools</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,gitlab,linux,raspberrypi,selenium,figma,notion,postman,latex,vercel&perline=15" alt="Docker, Kubernetes, Git, GitHub, GitHub Actions, GitLab, Linux, Raspberry Pi, Selenium, Figma, Notion, Postman, LaTeX, Vercel"></td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-musa-ml/muhammad-musa-ml/output/github-snake-dark.svg">
