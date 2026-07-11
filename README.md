@@ -42,32 +42,13 @@ Ten weeks of receipts, recomputed from my actual transcripts on July 11, 2026:
 
 ## Selected work
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/muhammad-musa-ml/musa-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=musa-portfolio&theme=transparent&hide_border=true" alt="musa-portfolio — living 3D portfolio with an honesty-first AI twin">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/muhammad-musa-ml/mufaasat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=mufaasat&theme=transparent&hide_border=true" alt="mufaasat — a live two-laptop photobooth arcade">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/muhammad-musa-ml/AugData">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=AugData&theme=transparent&hide_border=true" alt="AugData — a benchmark dataset for large multimodal models">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/muhammad-musa-ml/customized_transport_layer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-musa-ml&repo=customized_transport_layer&theme=transparent&hide_border=true" alt="customized_transport_layer — a reliable transport protocol built on UDP">
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **[musa-portfolio](https://github.com/muhammad-musa-ml/musa-portfolio)** | My living 3D portfolio — a Three.js neural constellation with 2,400 GPU-shaded particles and an honesty-first AI twin that answers as me, grounded in a knowledge base and served for $0 on edge functions. |
+| **[mufaasat](https://github.com/muhammad-musa-ml/mufaasat)** | A photobooth arcade: shoot a strip solo, or two people on two laptops shoot one strip together, live. Conceived to deployed on GitHub Pages in two days. |
+| **[faati-portfolio](https://github.com/muhammad-musa-ml/faati-portfolio)** | A scroll-driven 3D voyage with its own honesty-first AI twin — the portfolio pipeline, rerun end-to-end for a different person and brief. |
+| **[AugData](https://github.com/muhammad-musa-ml/AugData)** | A benchmark dataset for evaluating large multimodal models. |
+| **[customized_transport_layer](https://github.com/muhammad-musa-ml/customized_transport_layer)** | A secure, reliable transport protocol built from scratch on UDP — ACKs, checksums, and sliding windows in Python. |
 
 The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, consent-in-RLS, immutable audit, 545 pgTAP assertions), **resume-gauntlet** (the plugin above, pre-1.0), and the prompt-injection research code. Ask me about any of them.
 
@@ -76,13 +57,6 @@ The heaviest work is private for now: **Wumi Health** (Flutter + Supabase, conse
 <p>
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,rust,r&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, C++, Rust, R"><br>
   <img src="https://skillicons.dev/icons?i=ts,react,threejs,flutter,dart,supabase,postgres,docker&perline=8" alt="TypeScript, React, Three.js, Flutter, Dart, Supabase, Postgres, Docker">
-</p>
-
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-musa-ml&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-musa-ml&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" height="170">
 </p>
 
 <picture>
