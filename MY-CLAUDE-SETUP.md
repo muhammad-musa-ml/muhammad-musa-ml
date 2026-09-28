@@ -25,6 +25,6 @@ For anything past a quick fix I use [GSD](https://gsd-build-get-shit-done.mintli
 
 resume-gauntlet is a Claude Code plugin I wrote to turn my project folders and repos into resume bullets I can defend in an interview. One model family writes the bullets and eight verifiers from another family grade them, and a bullet that can't point to evidence gets thrown out. It also finds jobs and drafts outreach emails. It's private for now, at v0.7.0 with 6,567 tests.
 
-These run on timers: a nightly market briefing, a job scan that saves new postings and their ATS keywords, a twice-daily sync for one of my projects, and a quarterly reminder to update a visa-sponsorship table.
+Four agents run on timers: a nightly market briefing, a job scan that saves new postings and their ATS keywords, a twice-daily sync for one of my projects, and a quarterly reminder to update a visa-sponsorship table.
 
 One of my hooks scans files for prompt injection when an agent reads them. If a service has an MCP server, like GitHub or Supabase, I use it instead of browser automation. Experiments go in throwaway git worktrees, and for design work I usually build a few versions of the same brief and keep the best one.
