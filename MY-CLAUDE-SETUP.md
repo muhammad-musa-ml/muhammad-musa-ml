@@ -1,50 +1,30 @@
 # My Claude Code setup
 
-*Muhammad Musa · [iammusa.vercel.app](https://iammusa.vercel.app) · [@muhammad-musa-ml](https://github.com/muhammad-musa-ml) · updated September 27, 2026*
+*Updated September 27, 2026*
 
-I've used Claude Code since April 30, and the setup around it has turned into something I maintain like a codebase. Some notes on it.
+My first session was on April 30.
 
 | Measure | Value |
 |:---|:---|
-| Sessions on disk | 203, plus 1,997 subagent runs |
+| Sessions in my current logs | 203, plus 1,997 subagent runs |
 | Tool calls | 105,352 |
-| Tokens generated | about 188 million |
-| Tokens read from the prompt cache | about 62.7 billion |
-| Busiest day (UTC) | September 6: 35 sessions, 13,627 tool calls |
-| Claude model versions in the logs | 9 |
-| Methodology skills I wrote | 15 |
-| Rules promoted from mistake ledgers | 37 |
+| Tokens generated | 188 million |
+| Input tokens served from the prompt cache | about 98% |
+| Busiest day | September 24, with 12,018 tool calls |
+| Claude models I've used | 9 |
+| Skills I wrote | 15 |
+| Rules learned from mistakes | 37 |
 | Hooks | 12 |
-| Recurring scheduled agents | 4 |
+| Scheduled agents | 4 |
 
-Old logs rotate out (the oldest one left is from May 8), so the transcript numbers run low.
+Each skill is a playbook for a kind of work I do a lot, like debugging or planning, and a routing table in my global `CLAUDE.md` tells a session which one to open.
 
-## Skills and the mistake log
+I keep a log of mistakes. Sessions read it before they start and add to it as soon as they catch something, and when a lesson turns out to matter everywhere it gets promoted to my global rules. One is plain shell behavior: pipe a command into `tail` and you get `tail`'s exit code, so a failed build can look fine. Another only applies to this laptop, where `grep -i` combined with `-F` crashes without printing anything. A script that doesn't check exit codes takes that as "no matches".
 
-The fifteen skills are playbooks for different kinds of work, from debugging and planning to research and writing, and a routing table in my global `CLAUDE.md` tells a session which one to open.
+For anything past a quick fix I use [GSD](https://gsd-build-get-shit-done.mintlify.app/) (Get Shit Done), a spec-driven workflow for Claude Code. It breaks each phase into small plans and gives every plan a fresh subagent, which keeps context from rotting over one long conversation. I use its security and UI reviews too.
 
-The part I'd keep if I had to drop the rest is the mistake log. A project keeps a ledger; sessions read it before starting and add an entry the moment they catch a mistake. When a lesson turns out to apply everywhere, it moves into my global instructions, which now hold 37 of them. Some are about my own habits and some are about this particular Windows machine. A command piped into `tail`, for example, hands back `tail`'s exit code, so a broken build can look fine. And here `grep -i` together with `-F` crashes without printing anything, which a careless script will read as zero matches.
+resume-gauntlet is a Claude Code plugin I wrote to turn my project folders and repos into resume bullets I can defend in an interview. One model family writes the bullets and eight verifiers from another family grade them, and a bullet that can't point to evidence gets thrown out. It also finds jobs and drafts outreach emails. It's private for now, at v0.7.0 with 6,567 tests.
 
-## Workflow
+These run on timers: a nightly market briefing, a job scan that saves new postings and their ATS keywords, a twice-daily sync for one of my projects, and a quarterly reminder to update a visa-sponsorship table.
 
-Bigger projects run on [GSD](https://gsd-build-get-shit-done.mintlify.app/) (Get Shit Done), a spec-driven workflow for Claude Code; I'm on v1.41.2. It breaks a phase into small plans and gives each one a fresh subagent, the idea being that one long conversation gets worse as it goes. I also use its review commands for security, UI and eval coverage.
-
-## resume-gauntlet
-
-My Claude Code plugin for writing resumes I can defend in an interview. It reads my project folders and repos, drafts bullets, and sends them through eight verifiers that run on a different model family than the one that wrote them. A bullet with no evidence behind it gets rejected. It's at v0.7.0 with a test suite of 6,567 tests, I'm the only committer, and it's private for now. It can also look for jobs and draft outreach, but sending or submitting stays my call.
-
-## Scheduled agents
-
-A nightly market briefing (it can place an order, but only once I've approved it), a job scan that saves new postings along with the keywords their screening systems look for, a twice-daily sync for one of my projects, and a quarterly reminder to update a visa-sponsorship table.
-
-## Guardrails
-
-Twelve hooks run inside the harness itself. The one closest to my research scans the files an agent reads for prompt injection. Others check commits and writes. For outside services I prefer a proper MCP server (GitHub, Supabase, Slack and so on) and only drive a browser or the desktop when nothing else can do the job.
-
-## Small habits
-
-Experiments go into throwaway git worktrees. For open-ended design I'll build a few versions of the same brief and keep one. And since cache reads outnumber generated tokens roughly 333 to 1 in my logs, I try to structure sessions so the cache stays warm.
-
----
-
-<sub>A script walks every session log on disk and totals messages, tool calls and tokens (days are UTC). The config counts come from listing the skill, hook and scheduled-task folders.</sub>
+One of my hooks scans files for prompt injection when an agent reads them. If a service has an MCP server, like GitHub or Supabase, I use it instead of browser automation. Experiments go in throwaway git worktrees, and for design work I usually build a few versions of the same brief and keep the best one.
